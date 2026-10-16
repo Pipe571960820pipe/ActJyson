@@ -1,4 +1,4 @@
-package EJERPOOY;
+package EJERPOOY.calculadora;
 /*
 • Ejercicio 4: Calculadora básica con selección múltiple.
 Presentar un menú con cuatro operaciones aritméticas básicas

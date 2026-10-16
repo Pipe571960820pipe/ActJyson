@@ -1,4 +1,4 @@
-package EJERPOOY;
+package EJERPOOY.Ejercicio6;
 
 /*
 Leer números mayores o iguales a cero acumulando su suma y contando la cantidad de

@@ -1,4 +1,4 @@
-package EJERPOOY;
+package EJERPOOY.tablaMultiplicar;
 
 import javax.swing.JOptionPane;
 
