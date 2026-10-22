@@ -1,4 +1,4 @@
-package actividad3;
+package EJERPOOY.actividad3;
 
 import javax.swing.JOptionPane;
 

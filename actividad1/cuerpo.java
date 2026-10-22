@@ -1,4 +1,4 @@
-package actividad1;
+package EJERPOOY.actividad1;
 /*promedio de las notas 
 la menor nota
 la mayor nota*/

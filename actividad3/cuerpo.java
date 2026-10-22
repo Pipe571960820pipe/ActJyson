@@ -1,4 +1,4 @@
-package actividad3;
+package EJERPOOY.actividad3;
 
 public class cuerpo {
     public static void main(String[] args) {

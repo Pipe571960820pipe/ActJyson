@@ -1,4 +1,4 @@
-package actividad2;
+package EJERPOOY.actividad2;
 
 import java.text.DecimalFormat;
 

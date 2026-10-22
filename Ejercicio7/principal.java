@@ -7,7 +7,6 @@ privados titular y saldo), constructor para inicializar valores, y métodos púb
 instancie un objeto y pruebe las operaciones.
 */
 import javax.swing.JOptionPane;
-
 public class principal {
 
     public static void main(String[] args) {
